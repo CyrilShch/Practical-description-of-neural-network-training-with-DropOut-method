@@ -1,0 +1,1 @@
+# Practical-description-of-neural-network-training-with-DropOut-method
